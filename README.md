@@ -4,4 +4,4 @@
 即可食用
 
 ![](https://github.com/ShaunRain/DynamicPageTransformer/raw/master/Record/demo.gif)   
-(断层效果来自源自zz的录屏软件)
+(断层效果源自zz的录屏软件)
